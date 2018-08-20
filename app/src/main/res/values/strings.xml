@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Material</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_marker">Marker</string>
+    <string name="feedback"><u>ОТЗЫВЫ</u></string>
+    <string name="card_first_title">Rehana resort</string>
+    <string name="card_first_description">с 23.03 - 05.04 - 13 ночей</string>
+    <string name="card_second_title">Title</string>
+    <string name="card_second_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="rating_text_view">4.6</string>
 </resources>
